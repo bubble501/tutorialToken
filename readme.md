@@ -16,7 +16,7 @@ git clone https://github.com/bubble501/tutorialToken.git
 npm install
 ```
 
-3. 在根目录创建文件 .env, 在.env文件记录下对应的私钥。MAINNET_PRIVATE_KEY为主网的私钥。 ROPSTEN_PRIVATE_KEY为ropsten测试网络的私钥。内容如下：
+3. 打开根目录下的.env文件，替换对应网络账户的私钥。MAINNET_PRIVATE_KEY为主网的私钥。 ROPSTEN_PRIVATE_KEY为ropsten测试网络的私钥。内容如下：
 
 ```
 MAINNET_PRIVATE_KEY="你的主网账户私钥"
